@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/covid-twitter-bot/static/css/main.c39c602e.chunk.css",
+    "main.js": "/covid-twitter-bot/static/js/main.8a5d4bd4.chunk.js",
+    "main.js.map": "/covid-twitter-bot/static/js/main.8a5d4bd4.chunk.js.map",
+    "runtime-main.js": "/covid-twitter-bot/static/js/runtime-main.ab3a6455.js",
+    "runtime-main.js.map": "/covid-twitter-bot/static/js/runtime-main.ab3a6455.js.map",
+    "static/js/2.6857aad2.chunk.js": "/covid-twitter-bot/static/js/2.6857aad2.chunk.js",
+    "static/js/2.6857aad2.chunk.js.map": "/covid-twitter-bot/static/js/2.6857aad2.chunk.js.map",
+    "static/js/3.8768120d.chunk.js": "/covid-twitter-bot/static/js/3.8768120d.chunk.js",
+    "static/js/3.8768120d.chunk.js.map": "/covid-twitter-bot/static/js/3.8768120d.chunk.js.map",
+    "index.html": "/covid-twitter-bot/index.html",
+    "static/css/main.c39c602e.chunk.css.map": "/covid-twitter-bot/static/css/main.c39c602e.chunk.css.map",
+    "static/js/2.6857aad2.chunk.js.LICENSE.txt": "/covid-twitter-bot/static/js/2.6857aad2.chunk.js.LICENSE.txt",
+    "static/media/FormSuccess.39f6fb21.bin": "/covid-twitter-bot/static/media/FormSuccess.39f6fb21.bin",
+    "static/media/img-2.776858c5.svg": "/covid-twitter-bot/static/media/img-2.776858c5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab3a6455.js",
+    "static/js/2.6857aad2.chunk.js",
+    "static/css/main.c39c602e.chunk.css",
+    "static/js/main.8a5d4bd4.chunk.js"
+  ]
+}
